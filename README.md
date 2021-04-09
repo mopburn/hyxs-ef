@@ -2,6 +2,7 @@
 * 利用github action实现定时自动运行api调用，保持E5开发活跃。
 * 免费，不需要额外设备/服务器，部署完不用管啦。
 * 加密版，隐藏应用id+机密，保护账号安全
+* Runs on the 0, 2, 4, 6, 8, 10, 12, 14, 16, 18, 20 and 22th hour
 
 ### 特别说明/Thanks ###
 * 原教程博主-黑幕（酷安id-Paran）：https://blog.432100.xyz/index.php/archives/50/
